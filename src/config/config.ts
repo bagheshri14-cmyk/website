@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Bagheshri T S',
     title: 'Student | Christ University BRC',
-    image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
+    image: getAsset('images/PROFILE PIC.jpg'), // Resolves to /profile.png or /base-path/profile.png
     description: 'Bagheshri T S is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
         '\n' +
         'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
