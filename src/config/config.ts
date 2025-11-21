@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Bagheshri T S',
-    title: 'Student | Christ University',
+    title: 'Student | Christ University BRC',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
     description: 'Chandravesh Chaudhari, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
         '\n' +
