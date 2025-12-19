@@ -17,7 +17,7 @@ const siteConfig = {
 
   seo: {
     title: "Bagheshri T S - Student and Learning Enthusiast",
-    description: 'Official website showcasing Bagheshri T S\'s education, research, projects and experience.',
+    description: "Official website showcasing Bagheshri T S\'s education, research, projects and experience.",
   },
 
   animatedText: ['Researcher', 'Analyst', 'Builder'],
