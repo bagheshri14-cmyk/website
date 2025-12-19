@@ -11,7 +11,7 @@ const siteConfig = {
     image: getAsset('images/PROFILE_PIC.jpg'), // Resolves to /profile.png or /base-path/profile.png
     description: 'Bagheshri T S is a student pursuing BA Economics interested in the field of publicy policy and development research aiming to create solutions for the existing socio-economic problems. \n'
     
-    tagline:"Economics Student ♦ Public Policy & Development Research ♦ Data Analysis",
+    tagline: "Economics Student ♦ Public Policy & Development Research ♦ Data Analysis",
   location: 'Bangalore, India',
   },
 
