@@ -9,7 +9,7 @@ const siteConfig = {
     name: 'Bagheshri T S',
     title: 'Student | Christ University BRC',
     image: getAsset('images/PROFILE_PIC.jpg'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Bagheshri T S is a student pursuing BA Economics interested in the field of publicy policy and development research aiming to create solutions for the existing socio-economic problems. \n'
+    description: 'Bagheshri T S is a student pursuing BA Economics interested in the field of publicy policy and development research aiming to create solutions for the existing socio-economic problems,
     
   tagline: "Economics Student ♦ Public Policy & Development Research ♦ Data Analysis",
   location: 'Bangalore, India',
