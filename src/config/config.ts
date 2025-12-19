@@ -9,7 +9,7 @@ const siteConfig = {
     name: 'Bagheshri T S',
     title: 'Student | Christ University BRC',
     image: getAsset('images/PROFILE_PIC.jpg'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Bagheshri T S is a student pursuing BA Economics interested in the field of publicy policy and development research aiming to create solutions for the existing socio-economic problems. \n' +
+    description: 'Bagheshri T S is a student pursuing BA Economics interested in the field of publicy policy and development research aiming to create solutions for the existing socio-economic problems. \n'
     
     tagline: 'Economics Student ♦ Public Policy & Development Research ♦ Data Analysis',
   location: 'Bangalore, India',
@@ -43,7 +43,7 @@ navigation: [
       year: '2024–2027',
       image: getAsset('images/education/Christ_University.png'),
       description: [
-        'Focusing on economics as a core subject with data anlysis and policy research',
+        'Focusing on economics as a core subject with data analysis and policy research',
       ],
     },
     {
@@ -102,7 +102,7 @@ certifications: [
   contact: {
     email: 'bagheshri14@gmail.com',
     linkedin: 'https://www.linkedin.com/in/bagheshri-t-s-13a053316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-    github: 'https://github.com/chandraveshchaudhari',
+    github: 'https://github.com/bagheshri14-cmyk',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
   orcid: 'https://orcid.org/0000-0003-1053-7541',
   },
