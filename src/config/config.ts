@@ -5,9 +5,6 @@ export const getAsset = (path: string) => {
 };
 
 const siteConfig = {
-  // -------------------------
-  // Personal Info & Hero Section
-  // -------------------------
   personal: {
     name: 'Bagheshri T S',
     title: 'Student | Christ University BRC',
@@ -19,23 +16,14 @@ const siteConfig = {
     location: 'Bangalore, India',
   },
 
-  // -------------------------
-  // SEO meta info
-  // -------------------------
   seo: {
     title: 'Bagheshri T S — Student and Learning Enthusiast',
     description:
       "Official website showcasing Bagheshri T S's education, research, projects and experience.",
   },
 
-  // -------------------------
-  // Animated Text for Hero Section
-  // -------------------------
   animatedText: ['Researcher', 'Analyst', 'Builder'],
 
-  // -------------------------
-  // Navigation
-  // -------------------------
   navigation: [
     { name: 'Home', url: '/' },
     { name: 'Projects', url: '/projects' },
@@ -44,9 +32,6 @@ const siteConfig = {
     { name: 'Contact', url: '/contact' },
   ],
 
-  // -------------------------
-  // Education
-  // -------------------------
   education: [
     {
       institution: 'Christ University, Bangalore',
@@ -68,9 +53,6 @@ const siteConfig = {
     },
   ],
 
-  // -------------------------
-  // Projects
-  // -------------------------
   projects: [
     {
       id: 'regional-development',
@@ -270,9 +252,6 @@ const siteConfig = {
     },
   ],
 
-  // -------------------------
-  // Contact
-  // -------------------------
   contact: {
     email: 'bagheshri14@gmail.com',
     location: 'Bangalore, India',
